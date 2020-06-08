@@ -1,0 +1,17 @@
+{
+  "name": "track-milestones",
+  "displayName": "track-milestones",
+  "expo": {
+    "name": "track-milestones",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
